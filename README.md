@@ -28,7 +28,7 @@ Hi there! I'm Bedirhan — a developer passionate about backend systems, system 
 | **Datastores & Caching** | `PostgreSQL` · `MySQL` · `Redis` · `DynamoDB` · `MongoDB` · `ClickHouse` |
 | **Streaming / Messaging** | `RabbitMQ` · `Kafka` · `AWS SQS` |
 | **Cloud-Native & Serverless** |`EC2` · `RDS` · `AWS Lambda` · `API Gateway` · `ECS Fargate` · `S3` · `Step Functions`|
-| **Infra & DevOps** | `Docker` · `Kubernetes` · `GitHub Actions`|
+| **Infra & DevOps** | `Docker`  · `GitHub Actions` · `Terraform` · `AWS CloudFormation`|
 | **Observability** | `Prometheus` · `Grafana` · `CloudWatch` |
 | **Data Engineering** | `ETL` · `Apache Airflow` · `dbt` · `Apache NiFi`|
 | **Version Control** | `Git` · `GitHub` · `AWS CodeCommit` |
