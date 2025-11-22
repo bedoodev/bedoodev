@@ -24,7 +24,7 @@ Hi there! I'm Bedirhan — a developer passionate about backend systems, system 
 | Domain | Stack Highlights |
 |--------|------------------|
 | **Core Languages** | `Golang` · `Python` |
-| **Frameworks & ORMs** |`FastAPI` · `Django` · `SQLAlchemy` · `Gin` · `GORM`|
+| **Frameworks & Libraries** |`FastAPI` · `SQLAlchemy` · `Pandas`|
 | **Datastores & Caching** | `PostgreSQL` · `MySQL` · `Redis` · `DynamoDB` · `MongoDB` · `ClickHouse` |
 | **Streaming / Messaging** | `RabbitMQ` · `Kafka` · `AWS SQS` |
 | **Cloud-Native & Serverless** |`EC2` · `RDS` · `AWS Lambda` · `API Gateway` · `ECS Fargate` · `S3` · `Step Functions`|
